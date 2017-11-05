@@ -1,4 +1,4 @@
-package decorator.combinations;
+package decorator.sagafrontier;
 
 public class BattleTest {
 	public static void main (String[] args){

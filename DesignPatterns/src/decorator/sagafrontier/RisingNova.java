@@ -1,4 +1,4 @@
-package decorator.combinations;
+package decorator.sagafrontier;
 
 public class RisingNova extends CombinationAttack{
 	Attack attack; 

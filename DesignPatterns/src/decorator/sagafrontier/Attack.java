@@ -1,4 +1,4 @@
-package decorator.combinations;
+package decorator.sagafrontier;
 
 public abstract class Attack {
 	

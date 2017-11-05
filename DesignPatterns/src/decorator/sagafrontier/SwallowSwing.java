@@ -1,4 +1,4 @@
-package decorator.combinations;
+package decorator.sagafrontier;
 
 public class SwallowSwing extends CombinationAttack{
 	Attack attack; 
